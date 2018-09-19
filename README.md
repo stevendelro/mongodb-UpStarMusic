@@ -3,7 +3,7 @@ Built while following along: [The Complete Developers Guide to MongoDB](https://
 
 ## What does it do?
 
-  *To be determined*
+  This project is currently on hold. It's way too boring and I need to keep the momentum going with something else. It's a great MongoDB course, but I'm not feeling it and that's fine.
 
 ## What did building this app teach me?
 
